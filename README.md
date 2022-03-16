@@ -33,7 +33,7 @@ The interfaces to make spread analysis (Section 5.3)
 # 3. time_evaluate.cpp
 The interface to evaluate  running efficiency
 
-# 4. The datasets used in the paper are included in "data".
+# 4. data format.
 The Tokyo, NYC and SG-T datasets are organized into the format of "timeID, node_u, node_v, venueID". 
 The Italy dataset is in the format of "timeID, node_u, node_v, prob".
 
