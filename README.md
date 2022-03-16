@@ -1,4 +1,4 @@
-# The "T-IC" folder contains the codes used in the paper.  
+# The "T-IC" folder contains the codes used in the paper "Temporal Cascade Model for Analyzing Spread in Evolving Networks with Disease Monitoring Applications".  
 
 
 # T-IC-model  
